@@ -4,6 +4,7 @@
 ![wallpaper](https://user-images.githubusercontent.com/93244935/151262826-a92385ee-1e5a-495b-b603-99d70b9f9e13.png)
 <h1 align = "center"> Hi there 👋</h1>
 <p> I'm Benito Raphael T. Sicat IV, feel free to call me Ben. I'm Freshman in <a href = "adamson.edu.ph">Adamson Uni.</a>, a Tarlac grown man who is lost for words most of the time</p>
+
 <p> 🤔 I’m looking for help with learning more about Javascript and some of its platfroms and frameworks.</p>
 
 
@@ -26,8 +27,7 @@
 ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-
-[![Ben’s github stats](https://github-readme-stats.vercel.app/api?username=Ben-Sicat)](https://github.com/Ben-Sicat)
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-Sicat&show_icons=true&theme=radical)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ben-Sicat&layout=compact)](https://github.com/Ben-Sicat)
 
