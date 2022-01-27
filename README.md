@@ -35,9 +35,7 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ben-Sicat&&theme=react&&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Ben-Sicat&show_icons=true&theme=react&&hide_border=true"/>
 <br/>
-<p> All my Socials are in this <a href = "https://allsocials.link/sirben
-  
-  ">link</a></p>
+<p> All my Socials are in this <a href = "https://allsocials.link/sirben">link</a></p>
 <!--
 **Ben-Sicat/Ben-Sicat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
