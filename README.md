@@ -11,7 +11,9 @@
   ![GitHub followers](https://img.shields.io/github/followers/Ben-Sicat?style=social)
 
 <p> Feel free to hit me up since I'm fairly knew to using Github I could really use the help</p>
+
 ---
+
 <h1>💼 My Techincal skills and where I learned them.</h1>
 
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
