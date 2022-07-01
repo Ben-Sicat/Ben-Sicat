@@ -3,7 +3,9 @@
 
 ![wallpaper](https://user-images.githubusercontent.com/93244935/151262826-a92385ee-1e5a-495b-b603-99d70b9f9e13.png)
 <h1 align = "center"> Hi there 👋</h1>
-<p> I'm Benito Raphael T. Sicat IV, feel free to call me Ben. I'm Freshman in <a href = "adamson.edu.ph">Adamson Uni.</a>, a Tarlac grown man who is lost for words most of the time</p>
+<p> I'm Benito Raphael T. Sicat IV, feel free to call me Ben. I'm Freshman in <a href = "adamson.edu.ph">Adamson Uni.</a>, a Tarlac grown man who is lost for words most of the time.</p>
+<br>
+<p>I'm in dire need of guidance fock</p>
 
 <p> 🤔 I’m looking for help with learning more about Javascript and some of its platfroms and frameworks.</p>
 
@@ -34,7 +36,7 @@
 
 
 
----
+
 
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-Sicat&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ben-Sicat&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
