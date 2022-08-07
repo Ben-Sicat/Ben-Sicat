@@ -53,6 +53,7 @@
 
 
 <p> All my Socials are in this <a href = "https://allsocials.link/sirben">link</a></p>
+[![wakatime](https://wakatime.com/badge/github/Ben-Sicat/codeEveryday.svg)](https://wakatime.com/badge/github/Ben-Sicat/codeEveryday)
 <!--
 **Ben-Sicat/Ben-Sicat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
