@@ -41,6 +41,15 @@
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-Sicat&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ben-Sicat&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://wakatime.com/@Braph" target="_blank">
+    <img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ben-Sicat&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats" />
+  </a>
+</div>
+
+<br />
+<br />
+
+
 
 
 <p> All my Socials are in this <a href = "https://allsocials.link/sirben">link</a></p>
