@@ -2,7 +2,7 @@
 
 
 ![wallpaper](https://user-images.githubusercontent.com/93244935/151262826-a92385ee-1e5a-495b-b603-99d70b9f9e13.png)
-<h1 align = "center"> Hi there 👋</h1>
+<h1 align = "center"> Hi👋</h1>
 <p> I'm Benito Raphael T. Sicat IV, feel free to call me Ben. I'm Freshman in <a href = "adamson.edu.ph">Adamson Uni.</a>, a Tarlac grown man who is lost for words most of the time.</p>
 <br>
 <p>I'm in dire need of guidance fock</p>
@@ -14,24 +14,6 @@
 
 <p> Feel free to hit me up since I'm fairly knew to using Github I could really use the help</p>
 
----
-
- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- 
-  
----
-
-<!-- ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
-![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) -->
 
 
 
