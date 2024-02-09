@@ -5,7 +5,7 @@
 <h1 align = "center"> Hi👋</h1>
 <p> I'm Benito Raphael T. Sicat IV, feel free to call me Ben. I'm Junior in <a href = "adamson.edu.ph">Adamson Uni.</a>, a Tarlac grown man who is lost for words most of the time.</p>
 <br>
-<p>I'm in dire need of guidance fock</p>
+<p>Hit me up lets collaborate on machine learning related projects!</p>
 
 <p> 🤔 Looking to get back up and start more significant projects so stay tuned.</p>
 
